@@ -1,0 +1,5 @@
+{
+  "name": "Self-Explaining Code Notebook byy ross",
+  "description": "An interactive code notebook that visualizes and explains Python pandas operations step-by-step. Enter a pandas command to see an animated breakdown, get a code explanation, and explore real-world use cases.",
+  "requestFramePermissions": []
+}
